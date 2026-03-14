@@ -1,1 +1,15 @@
+# macOS system files
 .DS_Store
+
+# Compiled Binaries
+*.o
+*.out
+*.exe
+build/
+
+# Environment / Secret files
+.env
+
+# IDE files
+.vscode/
+.idea/
